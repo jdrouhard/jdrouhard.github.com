@@ -2,3 +2,9 @@ theme: jekyll-theme-hacker
 title: John M. Drouhard
 description: Software Developer
 linkedin_url: http://www.linkedin.com/in/johndrouhard
+
+social:
+  name: John Drouhard
+  links:
+    - https://github.com/johnmiked15
+    - https://www.linkedin.com/in/johndrouhard
